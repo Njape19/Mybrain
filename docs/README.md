@@ -2,12 +2,14 @@
 
 Ceci est un projet d'encyclopédie personnelle qui contient toutes les connaissances et informations que j'ai trouvées intéressantes au fil du temps. J'ai créé ce projet pour m'aider à organiser et à consolider mes connaissances, ainsi que pour les partager avec d'autres personnes qui pourraient en bénéficier.
 
+Vous pouvez accéder à la version en ligne à l'adresse suivante : https://njape19.github.io/Mybrain/#/?id=my-brain
+
 ## Comment utiliser ce projet
 
 La documentation est générée avec [Docsify](https://docsify.js.org/), un générateur de documentation léger et facile à utiliser. Pour utiliser cette documentation sur votre propre ordinateur, vous devez installer Docsify CLI. Voici comment procéder :
 
 ```batch
-npm i docsify-cli -g
+npm i docsify -g
 ```
 
 Ensuite, vous pouvez cloner ce dépôt, accéder au répertoire cloné et lancer le serveur Docsify pour consulter la documentation :
@@ -23,7 +25,7 @@ cd Mybrain
 docsify serve
 ```
 
-Cela démarrera un serveur local sur votre ordinateur et vous pourrez accéder à votre projet dans votre navigateur en visitant l'URL suivante : http://localhost:3000.
+Cela démarrera un serveur local sur votre ordinateur et vous pourrez accéder à votre projet dans votre navigateur en visitant l'URL suivante : <http://localhost:3000>.
 
 ## Contribution
 
