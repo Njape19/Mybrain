@@ -23,7 +23,7 @@ cd Mybrain
 docsify serve
 ```
 
-Cela démarrera un serveur local sur votre ordinateur et vous pourrez accéder à votre projet dans votre navigateur en visitant l'URL suivante : http://localhost:3000.
+Cela démarrera un serveur local sur votre ordinateur et vous pourrez accéder à votre projet dans votre navigateur en visitant l'URL suivante : <http://localhost:3000>.
 
 ## Contribution
 
